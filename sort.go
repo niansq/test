@@ -23,3 +23,7 @@ func BubbleSort(nums []int){
 func InsertSort(nums []int){
 	//todo
 }
+
+func QuickSort(nums []int){
+	//todo
+}
